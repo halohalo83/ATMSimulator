@@ -1,0 +1,7 @@
+*** TÀI LIỆU ***
+1. Giải thuật tham lam Greedy Algorithm là gì? 
+https://topdev.vn/blog/cac-dang-bai-su-dung-thuat-toan-tham-lam-greedy-algorithm-problems/
+2. Các dạng bài sử dụng Greedy Algorithm:
+https://topdev.vn/blog/cac-dang-bai-su-dung-thuat-toan-tham-lam-greedy-algorithm-problems/
+3. Giải thuật ATM withdrawl
+http://codeforces.com/problemset/gymProblem/100541/C
