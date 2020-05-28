@@ -58,7 +58,7 @@
             // 
             this.labelMoney.AutoSize = true;
             this.labelMoney.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.labelMoney.Location = new System.Drawing.Point(213, 110);
+            this.labelMoney.Location = new System.Drawing.Point(275, 110);
             this.labelMoney.Name = "labelMoney";
             this.labelMoney.Size = new System.Drawing.Size(0, 20);
             this.labelMoney.TabIndex = 2;
@@ -85,6 +85,7 @@
             this.Name = "FORM_CHECKBALANCE";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kiểm tra số dư";
+            this.Load += new System.EventHandler(this.FORM_CHECKBALANCE_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

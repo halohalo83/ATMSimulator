@@ -69,6 +69,7 @@
             // 
             this.txbPIN.Location = new System.Drawing.Point(282, 204);
             this.txbPIN.Name = "txbPIN";
+            this.txbPIN.PasswordChar = '*';
             this.txbPIN.Size = new System.Drawing.Size(165, 22);
             this.txbPIN.TabIndex = 2;
             // 
