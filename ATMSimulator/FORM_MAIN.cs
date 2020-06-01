@@ -22,22 +22,6 @@ namespace ATMSimulator
             this.Close();
         }
 
-        private void btnDoiPin_Click(object sender, EventArgs e)
-        {
-            FORM_CHANGEPIN fcp = new FORM_CHANGEPIN();
-            this.Hide();
-            fcp.ShowDialog();
-            this.Show();
-        }
-
-        private void btnTruyVan_Click(object sender, EventArgs e)
-        {
-            FORM_CHECKBALANCE fcb = new FORM_CHECKBALANCE();
-            this.Hide();
-            fcb.ShowDialog();
-            this.Show();
-        }
-
         private void btnRutTien_Click(object sender, EventArgs e)
         {
             FORM_QUICKWITHDRAWAL fqd = new FORM_QUICKWITHDRAWAL();

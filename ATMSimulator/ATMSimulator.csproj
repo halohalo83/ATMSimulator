@@ -53,17 +53,11 @@
       <DependentUpon>Bill.cs</DependentUpon>
     </Compile>
     <Compile Include="DBConnection.cs" />
-    <Compile Include="FORM_CHANGEPIN.cs">
+    <Compile Include="FORM_BILL.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FORM_CHANGEPIN.Designer.cs">
-      <DependentUpon>FORM_CHANGEPIN.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FORM_CHECKBALANCE.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FORM_CHECKBALANCE.Designer.cs">
-      <DependentUpon>FORM_CHECKBALANCE.cs</DependentUpon>
+    <Compile Include="FORM_BILL.Designer.cs">
+      <DependentUpon>FORM_BILL.cs</DependentUpon>
     </Compile>
     <Compile Include="FORM_LOGIN.cs">
       <SubType>Form</SubType>
@@ -95,11 +89,8 @@
     <EmbeddedResource Include="Bill.resx">
       <DependentUpon>Bill.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FORM_CHANGEPIN.resx">
-      <DependentUpon>FORM_CHANGEPIN.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FORM_CHECKBALANCE.resx">
-      <DependentUpon>FORM_CHECKBALANCE.cs</DependentUpon>
+    <EmbeddedResource Include="FORM_BILL.resx">
+      <DependentUpon>FORM_BILL.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FORM_LOGIN.resx">
       <DependentUpon>FORM_LOGIN.cs</DependentUpon>

@@ -13,12 +13,11 @@ D:\University\Tối ưu hóa\Cuối kì\ATMSimulator\obj\Debug\ATMSimulator.FORM
 D:\University\Tối ưu hóa\Cuối kì\ATMSimulator\obj\Debug\ATMSimulator.FORM_MAIN.resources
 D:\University\Tối ưu hóa\Cuối kì\ATMSimulator\obj\Debug\ATMSimulator.FORM_QUICKWITHDRAWAL.resources
 D:\University\Tối ưu hóa\Cuối kì\ATMSimulator\obj\Debug\ATMSimulator.FORM_WITHDRAWAL.resources
-C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\bin\Debug\ATMSimulator.exe.config
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\bin\Debug\ATMSimulator.exe
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\bin\Debug\ATMSimulator.pdb
-C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.csprojAssemblyReference.cache
-C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.FORM_CHANGEPIN.resources
-C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.FORM_CHECKBALANCE.resources
+C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\bin\Debug\ATMSimulator.exe.config
+C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.Bill.resources
+C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.FORM_BILL.resources
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.FORM_LOGIN.resources
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.FORM_MAIN.resources
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.FORM_QUICKWITHDRAWAL.resources
@@ -28,4 +27,4 @@ C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSim
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.csproj.CoreCompileInputs.cache
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.exe
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.pdb
-C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.Bill.resources
+C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.csprojAssemblyReference.cache

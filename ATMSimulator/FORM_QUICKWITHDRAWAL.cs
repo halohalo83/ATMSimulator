@@ -29,5 +29,26 @@ namespace ATMSimulator
             fwd.ShowDialog();
             this.Show();
         }
+
+        private void btn100_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Bạn rút thành công 100.000 vnđ");
+
+        }
+
+        private void btn200_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Bạn rút thành công 200.000 vnđ");
+        }
+
+        private void btn1000_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Bạn rút thành công 1.000.000 vnđ");
+        }
+
+        private void btn2000_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Bạn rút thành công 2.000.000 vnđ");
+        }
     }
 }
