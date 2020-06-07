@@ -30,6 +30,7 @@
         {
             this.btnHuy = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.lbSotien = new System.Windows.Forms.Label();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.btnNumber1 = new System.Windows.Forms.Button();
             this.btnNumber2 = new System.Windows.Forms.Button();
@@ -44,7 +45,6 @@
             this.btnNumber0 = new System.Windows.Forms.Button();
             this.btnXoa = new System.Windows.Forms.Button();
             this.lblSoTien = new System.Windows.Forms.Label();
-            this.txtSoTien = new System.Windows.Forms.TextBox();
             this.lblTen = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
@@ -63,14 +63,22 @@
             // panel1
             // 
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel1.Controls.Add(this.lbSotien);
             this.panel1.Controls.Add(this.flowLayoutPanel1);
             this.panel1.Controls.Add(this.lblSoTien);
-            this.panel1.Controls.Add(this.txtSoTien);
             this.panel1.Location = new System.Drawing.Point(10, 67);
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(380, 293);
             this.panel1.TabIndex = 5;
+            // 
+            // lbSotien
+            // 
+            this.lbSotien.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.lbSotien.Location = new System.Drawing.Point(138, 50);
+            this.lbSotien.Name = "lbSotien";
+            this.lbSotien.Size = new System.Drawing.Size(188, 20);
+            this.lbSotien.TabIndex = 8;
             // 
             // flowLayoutPanel1
             // 
@@ -247,15 +255,6 @@
             this.lblSoTien.TabIndex = 1;
             this.lblSoTien.Text = "Số Tiền:";
             // 
-            // txtSoTien
-            // 
-            this.txtSoTien.Location = new System.Drawing.Point(121, 48);
-            this.txtSoTien.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSoTien.Name = "txtSoTien";
-            this.txtSoTien.ReadOnly = true;
-            this.txtSoTien.Size = new System.Drawing.Size(181, 22);
-            this.txtSoTien.TabIndex = 0;
-            // 
             // lblTen
             // 
             this.lblTen.BackColor = System.Drawing.Color.Teal;
@@ -265,7 +264,7 @@
             this.lblTen.Location = new System.Drawing.Point(0, 0);
             this.lblTen.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTen.Name = "lblTen";
-            this.lblTen.Size = new System.Drawing.Size(408, 54);
+            this.lblTen.Size = new System.Drawing.Size(409, 54);
             this.lblTen.TabIndex = 7;
             this.lblTen.Text = "ATM Simulator";
             this.lblTen.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -274,7 +273,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(408, 422);
+            this.ClientSize = new System.Drawing.Size(409, 422);
             this.Controls.Add(this.lblTen);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnHuy);
@@ -305,7 +304,7 @@
         private System.Windows.Forms.Button btnNumber0;
         private System.Windows.Forms.Button btnXoa;
         private System.Windows.Forms.Label lblSoTien;
-        private System.Windows.Forms.TextBox txtSoTien;
         private System.Windows.Forms.Label lblTen;
+        private System.Windows.Forms.Label lbSotien;
     }
 }

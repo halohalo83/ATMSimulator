@@ -27,4 +27,3 @@ C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSim
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.csproj.CoreCompileInputs.cache
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.exe
 C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.pdb
-C:\Users\Halo\Source\Repos\halohalo83\ATMSimulator\ATMSimulator\obj\Debug\ATMSimulator.csprojAssemblyReference.cache
